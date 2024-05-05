@@ -30,7 +30,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        I am a data scientist with over 4 years of experience in data analysis and machine learning.
+        I am a data scientist with experience in data analysis and machine learning.
         I possess a solid background in both statistical analysis and programming, with expertise in utilizing Python and its libraries such as Pandas, NumPy, and scikit-learn for data manipulation and modeling.
         My focus lies in developing insightful data-driven solutions and deploying machine learning models to address complex problems. 
         
