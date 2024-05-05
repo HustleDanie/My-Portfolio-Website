@@ -30,11 +30,12 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        I am a web developer with 4+ years of experience in React. I have a
-        strong foundation in front-end & back-end development and am skilled in
-        creating user-friendly and responsive web applications using React and
-        its ecosystem.{" "}
-        <a href="https://www.noormohammad.live/" target="_blank">
+        I am a data scientist with over 4 years of experience in data analysis and machine learning.
+        I possess a solid background in both statistical analysis and programming, with expertise in utilizing Python and its libraries such as Pandas, NumPy, and scikit-learn for data manipulation and modeling.
+        My focus lies in developing insightful data-driven solutions and deploying machine learning models to address complex problems. 
+        
+        {" "}
+        <a href="https://www.github.com/hustledanie" target="_blank">
           {" "}
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
             Learn more
@@ -42,7 +43,7 @@ const Banner = () => {
           </span>
         </a>
       </motion.p>
-      <a href="https://github.com/noorjsdivs" target="_blank">
+      <a href="https://github.com/hustledanie" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
