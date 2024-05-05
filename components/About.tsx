@@ -13,15 +13,28 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          Hello! I'm Uche Maduabuchi Daniel, a dedicated data scientist passionate about transforming raw data into actionable insights. With a strong background in mathematics, statistics, and computer science, I thrive on extracting meaningful patterns from complex datasets. My expertise lies in applying machine learning algorithms, data visualization techniques, and statistical modeling to solve real-world problems.
-
-Throughout my career, I've had the opportunity to work on a diverse range of projects spanning industries such as healthcare, finance, and e-commerce. Whether it's predicting customer behavior, optimizing business processes, or uncovering hidden trends, I'm committed to leveraging data-driven approaches to drive informed decision-making and create tangible impact.
-
-I'm enthusiastic about staying up-to-date with the latest advancements in the field, constantly honing my skills in data manipulation, analysis, and interpretation. As a collaborative team player, I enjoy working alongside interdisciplinary teams to tackle complex challenges and drive innovation.
-
-Let's connect and explore how we can leverage the power of data to drive meaningful outcomes together!
-
-
+            Hello! My name is Hustle Daniel and I enjoy creating things that
+            live on the internet. My interest in web development started back in
+            2012 when I decided to try editing custom Tumblr themes — turns out
+            hacking together a custom reblog button taught me a lot about HTML &
+            CSS!
+          </p>
+          <p>
+            Fast-forward to today, and I had the privilege of working at an
+            advertising agency, a start-up,{" "}
+            <span className="text-textGreen">
+              a huge corporation, and a student-led design studio.
+            </span>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio rem
+            accusantium fugiat veritatis, quidem repellat{" "}
+            <span className="text-textGreen">
+              ab natus possimus? Sint, accusamus!
+            </span>
+          </p>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
+            ullam eligendi dolorum nostrum possimus quos iusto magnam ut esse
+            recusandae.
           </p>
           <p>Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
@@ -29,49 +42,49 @@ Let's connect and explore how we can leverage the power of data to drive meaning
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Python
+              JavaScript (ES6+)
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Pandas
+              Next.js
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Scikit Learn
+              React
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              SQL
+              Node.js
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Tensorflow
+              TypeScript
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Pytorch
+              Express.js
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Matplotlib
+              MongoDB
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Numpy
+              Tailwindcss
             </li>
           </ul>
         </div>
