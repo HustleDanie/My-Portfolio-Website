@@ -23,49 +23,49 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              JavaScript (ES6+)
+              Tensorflow
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Next.js
+              Python
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              React
+              SQL
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Node.js
+              Pytorch
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              TypeScript
+              Numpy
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Express.js
+              Pandas
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              MongoDB
+              Matplotlib
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Tailwindcss
+            Scikit learn
             </li>
           </ul>
         </div>
