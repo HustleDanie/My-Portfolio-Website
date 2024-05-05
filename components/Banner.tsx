@@ -32,6 +32,7 @@ const Banner = () => {
       >
         I am a data scientist with experience in data analysis and machine learning.
       </motion.p>
+      <span>
       <a href="https://github.com/hustledanie" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
@@ -52,6 +53,7 @@ const Banner = () => {
           Learn More!
         </motion.button>
       </a>
+      </span>
     </section>
   );
 };
