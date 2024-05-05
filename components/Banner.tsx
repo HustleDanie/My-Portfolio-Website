@@ -19,9 +19,9 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.7 }}
         className="text-4xl lgl:text-6xl font-titleFont font-semibold flex flex-col"
       >
-        Noor Mohammad.
+        Uche Daniel.
         <span className="text-textDark mt-2 lgl:mt-4">
-          I build things for the web.
+          I train models.
         </span>
       </motion.h1>
       <motion.p
