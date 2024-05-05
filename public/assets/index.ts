@@ -1,4 +1,4 @@
-import logo from "./images/logo.png";
+import logo from "./images/logo.jpg";
 import profileImg from "./images/profile.jpg";
 import amazonImg from "./images/amazonImg.png";
 import cyberImg from "./images/cyberBlog.png";
