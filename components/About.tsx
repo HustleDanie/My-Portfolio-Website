@@ -13,28 +13,11 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Hustle Daniel and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS!
-          </p>
-          <p>
-            Fast-forward to today, and I had the privilege of working at an
-            advertising agency, a start-up,{" "}
-            <span className="text-textGreen">
-              a huge corporation, and a student-led design studio.
-            </span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio rem
-            accusantium fugiat veritatis, quidem repellat{" "}
-            <span className="text-textGreen">
-              ab natus possimus? Sint, accusamus!
-            </span>
-          </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-            ullam eligendi dolorum nostrum possimus quos iusto magnam ut esse
-            recusandae.
+          Greetings! I'm Uche Maduabuchi Daniel, a passionate data scientist with a knack for transforming raw data into meaningful insights. With a robust background in mathematics, statistics, and computer science, I specialize in extracting actionable intelligence from complex datasets. My expertise spans across various domains, including machine learning, predictive analytics, and data visualization.
+
+Throughout my career, I've had the privilege of working on diverse projects, from predictive modeling in healthcare to sentiment analysis in social media. Leveraging cutting-edge tools and techniques, I thrive on uncovering hidden patterns and trends to drive strategic decision-making and foster innovation.
+
+As a lifelong learner, I stay abreast of the latest advancements in data science and continuously sharpen my skills to tackle new challenges head-on. I'm driven by a passion for solving problems and making a tangible impact through data-driven solutions.
           </p>
           <p>Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
