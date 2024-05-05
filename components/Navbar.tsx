@@ -8,7 +8,7 @@ import { SlSocialYoutube } from "react-icons/sl";
 import {
   SlSocialLinkedin,
   SlSocialFacebook,
-  SlSocialInstagram,
+
 } from "react-icons/sl";
 import { MdOutlineClose } from "react-icons/md";
 import { motion } from "framer-motion";
