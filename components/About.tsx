@@ -13,7 +13,7 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Uche Maduabuchi Daniel and a passionate data scientist with a knack for transforming raw data into meaningful insights.
+            i am a passionate data scientist with a knack for transforming raw data into meaningful insights.
             With a robust background in mathematics, statistics, and computer science, I specialize in extracting actionable intelligence from complex datasets.
             My expertise spans across various domains, including machine learning, predictive analytics, and data visualization.
           </p>
