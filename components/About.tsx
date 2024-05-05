@@ -13,11 +13,10 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Hustle Daniel and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS!
+            Hello! I'm Uche Daniel, a dedicated data scientist passionate about transforming raw data into actionable insights. With a strong background in mathematics, statistics, and computer science, I thrive on extracting meaningful patterns from complex datasets. My expertise lies in applying machine learning algorithms, data visualization techniques, and statistical modeling to solve real-world problems.
+
+Throughout my career, I've had the opportunity to work on a diverse range of projects spanning industries such as healthcare, finance, and e-commerce. Whether it's predicting customer behavior, optimizing business processes, or uncovering hidden trends, I'm committed to leveraging data-driven approaches to drive informed decision-making and create tangible impact.
+          
           </p>
           <p>
             Fast-forward to today, and I had the privilege of working at an
